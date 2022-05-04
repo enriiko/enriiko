@@ -1,3 +1,1 @@
-- Hi, I’m Enriko
-- I’m interested in Web Development and Programming 
-- I’m currently in School learning CS
+yo
